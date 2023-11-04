@@ -8,7 +8,7 @@ I've been learning to code for 4 months, after switching careers. I started with
 
 * 🌍  I'm based in Chiang Mai, Thailand.
 * ✉️  You can contact me at [themeyv@gmail.com](mailto:themeyv@gmail.com)
-* 🧠  I'm learning Full Stack Developer Bootcamp at TechUp.
+* 🧠  I'm learning Augular.
 
 ### Skills
 
